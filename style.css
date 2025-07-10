@@ -8,6 +8,11 @@
     scroll-behavior: smooth;
     font-family: -apple-system, sans-serif;
 }
+/* i {
+  font-size: 15px;
+  color: #333;
+} */
+
 
 :root {
     --bg-color: #fff;
@@ -142,6 +147,10 @@ span {
 
 .home-content p {
     font-size: 1.6rem;
+}
+.bx-pencil:before {
+    content: "\ebb1";
+    font-size: 50px;
 }
 
 .social-media a {
